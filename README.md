@@ -1,5 +1,5 @@
 <h1 align = "center"> Olá, <img src = "https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width = "30px"> sou Rodolfo Albuquerque </ h1 >
-<h3 align = "center"> desenvolvedor</h3>
+<h3 align = "center"> Desenvolvedor</h3>
 
 - <img src="https://img.icons8.com/emoji/18/000000/man-student.png"/> ** JavaScript, HTML, CSS **
 
