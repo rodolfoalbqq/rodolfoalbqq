@@ -1,7 +1,7 @@
 <h1 align = "center"> Olá <img src = "https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width = "30px">, sou Rodolfo Albuquerque </ h1 >
 <h3 align = "center">Front-end Developer</h3>
 
-- <img src="https://img.icons8.com/emoji/18/000000/man-student.png"/> ** JavaScript, HTML, CSS **
+- <img src="https://img.icons8.com/emoji/18/000000/man-student.png"/> ** Análise e Desenvolvimentto de Sistemas **
 
 - 📫 **Rodolfo.albqq@gmail.com**
 - <img src="https://img.icons8.com/fluent/18/000000/linkedin.png"/> <a href="https://www.linkedin.com/in/rodolfo-albuquerque-0ab2091a3/">Rodolfo Albuquerque</a>
