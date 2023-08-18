@@ -5,7 +5,6 @@
 - 📫 **Rodolfo.albqq@gmail.com**
 - <img src="https://img.icons8.com/fluent/18/000000/linkedin.png"/> <a href="https://www.linkedin.com/in/rodolfo-albuquerque-0ab2091a3/">Rodolfo Albuquerque</a>
 
-- ⚡ Curiosidade: ** cozinhar, gamer e social com os amigos 😜 **
    <br>
    <br>
 <div>
